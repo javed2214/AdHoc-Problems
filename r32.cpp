@@ -60,7 +60,7 @@ int main(){
 					cost2+=3;
 			}
 		}
-		cout<<cost1<cost2?cost1:cost2;
+		int ans=cost1<cost2?cost1:cost2;
 		cout<<ans<<"\n";
 	}
 
