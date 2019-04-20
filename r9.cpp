@@ -2,7 +2,7 @@
 
 #include<bits/stdc++.h>
 using namespace std;
-#define SIZE 10000
+#define SIZE 10000 
 
 void findAns(std::vector<int> &V){
 
