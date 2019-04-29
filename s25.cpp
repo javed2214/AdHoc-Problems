@@ -1,4 +1,4 @@
-// https://www.interviewbit.com/problems/amazing-subarrays/
+// https://www.interviewbit.com/problems/amazing-subarrays/ 
 // You are given a string S, and you have to find all the amazing substrings of S.
 // Amazing Substring is one that starts with a vowel (a, e, i, o, u, A, E, I, O, U).
 
