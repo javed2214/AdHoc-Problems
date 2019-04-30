@@ -4,7 +4,7 @@
 using namespace std;
 #define MOD 1000000007
 #define SIZE 1000000
-typedef long long ll;
+typedef long long ll; 
 
 int main(){
 
